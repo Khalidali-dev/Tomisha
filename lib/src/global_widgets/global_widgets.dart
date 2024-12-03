@@ -3,3 +3,4 @@ export 'dart:io';
 export 'container_widget.dart';
 export 'row_text_widget.dart';
 export 'custom_tabbar_widget.dart';
+export 'onboarding_body_widget.dart';
